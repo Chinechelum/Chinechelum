@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Stephen
-- 👀 I’m interested in blockchain development
-- 🌱 I’m currently studying Computer Science
-- 💞️ I’m looking to collaborate on blockchain related projects
+- 👀 I’m interested in the DARQ web
+- 🌱 I’m a Computer Science graduate
+- 💞️ I’m looking to collaborate on web3, networks, and cybersecurity related projects
 - 📫 How to reach me: stephenlazeke@gmail.com
 
 <!---
